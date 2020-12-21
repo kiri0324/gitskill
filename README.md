@@ -1,2 +1,2 @@
 # gitskill
-try to create 
+try to create a new repository
